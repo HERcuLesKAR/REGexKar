@@ -1,0 +1,25 @@
+git ADD to go to staging are 
+git COMMIT to save the folder in .git folder 
+
+ls -a :- to view hidden files 
+
+git status :- to know wheter the files are managed or not 
+
+Assignment 
+1. in linux 
+- if user has given as a input 1 
+create folder with any name 
+- if user has give as input 2 
+print crrent date 
+- if input is 3 
+show current user 
+- if input is 4 
+download any yt video in your linux 
+
+
+Q2 
+folder anme as regex 
+group => rw 
+group => 2people added let aman aditya 
+
+aman should delete files created by him 

@@ -1,0 +1,16 @@
+mk_xyz() {
+    # Create xyz folder
+    mkdir -p /home/kartikaya0312/xyz
+
+    # Create Desktop folder
+    mkdir -p /home/user/Desktop
+
+    # Create abc and def folders inside Desktop
+    mkdir -p /home/user/Desktop/abc /home/user/Desktop/def
+
+    # Move xyz folder to def folder
+    mv /home/user/xyz /home/user/Desktop/def/
+}
+
+# Execute the function
+mk_xyz

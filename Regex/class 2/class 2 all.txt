@@ -1,0 +1,1033 @@
+hacker haxk account
+hacker haxk account
+hacker haxk account
+hacker haxk account
+hacker haxk account
+hacker haxk account
+hacker haxk account
+hacker haxk account
+hacker haxk account
+hacker haxk account
+hacker haxk account
+hacker haxk account
+hacker haxk account
+hacker haxk account
+hacker haxk account
+hacker haxk account
+hacker haxk account
+hacker haxk account
+hacker haxk account
+hacker haxk account
+hacker haxk account
+hacker haxk account
+hacker haxk account
+hacker haxk account
+hacker haxk account
+hacker haxk account
+hacker haxk account
+hacker haxk account
+hacker haxk account
+hacker haxk account
+hacker haxk account
+hacker haxk account
+hacker haxk account
+hacker haxk account
+hacker haxk account
+hacker haxk account
+hacker haxk account
+hacker haxk account
+hacker haxk account
+hacker haxk account
+hacker haxk account
+hacker haxk account
+hacker haxk account
+hacker haxk account
+hacker haxk account
+hacker haxk account
+hacker haxk account
+hacker haxk account
+hacker haxk account
+hacker haxk account
+hacker haxk account
+hacker haxk account
+hacker haxk account
+hacker haxk account
+hacker haxk account
+hacker haxk account
+hacker haxk account
+hacker haxk account
+hacker haxk account
+hacker haxk account
+hacker haxk account
+hacker haxk account
+hacker haxk account
+hacker haxk account
+hacker haxk account
+hacker haxk account
+hacker haxk account
+hacker haxk account
+hacker haxk account
+hacker haxk account
+hacker haxk account
+hacker haxk account
+hacker haxk account
+hacker haxk account
+hacker haxk account
+hacker haxk account
+hacker haxk account
+hacker haxk account
+hacker haxk account
+hacker haxk account
+hacker haxk account
+hacker haxk account
+hacker haxk account
+hacker haxk account
+hacker haxk account
+hacker haxk account
+hacker haxk account
+hacker haxk account
+hacker haxk account
+hacker haxk account
+hacker haxk account
+hacker haxk account
+hacker haxk account
+hacker haxk account
+hacker haxk account
+hacker haxk account
+hacker haxk account
+hacker haxk account
+hacker haxk account
+hacker haxk account
+hacker haxk account
+hacker haxk account
+hacker haxk account
+hacker haxk account
+hacker haxk account
+hacker haxk account
+hacker haxk account
+hacker haxk account
+hacker haxk account
+hacker haxk account
+hacker haxk account
+hacker haxk account
+hacker haxk account
+hacker haxk account
+hacker haxk account
+hacker haxk account
+hacker haxk account
+hacker haxk account
+hacker haxk account
+hacker haxk account
+hacker haxk account
+hacker haxk account
+hacker haxk account
+hacker haxk account
+hacker haxk account
+hacker haxk account
+hacker haxk account
+hacker haxk account
+hacker haxk account
+hacker haxk account
+hacker haxk account
+hacker haxk account
+hacker haxk account
+hacker haxk account
+hacke^C
+kartikaya0312@cloudshell:~$ yes "hacker hack account" > hack.html
+^C
+kartikaya0312@cloudshell:~$ ls -lh
+total 174M
+-rw-rw-r-- 1 kartikaya0312 kartikaya0312    0 May  7 05:44 abc.txt
+-rw-rw-r-- 1 kartikaya0312 kartikaya0312    0 May  7 05:44 data.txt
+-rw-rw-r-- 1 kartikaya0312 kartikaya0312 174M May  7 05:56 hack.html
+-rw-rw-r-- 1 kartikaya0312 kartikaya0312  10K May  7 05:46 yash.tar
+kartikaya0312@cloudshell:~$ tar -cf kar.tar hack.html
+kartikaya0312@cloudshell:~$ ls -lh 
+total 348M
+-rw-rw-r-- 1 kartikaya0312 kartikaya0312    0 May  7 05:44 abc.txt
+-rw-rw-r-- 1 kartikaya0312 kartikaya0312    0 May  7 05:44 data.txt
+-rw-rw-r-- 1 kartikaya0312 kartikaya0312 174M May  7 05:56 hack.html
+-rw-rw-r-- 1 kartikaya0312 kartikaya0312 174M May  7 05:59 kar.tar
+-rw-rw-r-- 1 kartikaya0312 kartikaya0312  10K May  7 05:46 yash.tar
+kartikaya0312@cloudshell:~$ tar -czf kar2.tar hack.html
+kartikaya0312@cloudshell:~$ ls -lh
+total 349M
+-rw-rw-r-- 1 kartikaya0312 kartikaya0312    0 May  7 05:44 abc.txt
+-rw-rw-r-- 1 kartikaya0312 kartikaya0312    0 May  7 05:44 data.txt
+-rw-rw-r-- 1 kartikaya0312 kartikaya0312 174M May  7 05:56 hack.html
+-rw-rw-r-- 1 kartikaya0312 kartikaya0312 432K May  7 06:01 kar2.tar
+-rw-rw-r-- 1 kartikaya0312 kartikaya0312 174M May  7 05:59 kar.tar
+-rw-rw-r-- 1 kartikaya0312 kartikaya0312  10K May  7 05:46 yash.tar
+kartikaya0312@cloudshell:~$ mkdir test 
+kartikaya0312@cloudshell:~$ ls -lh
+total 349M
+-rw-rw-r-- 1 kartikaya0312 kartikaya0312    0 May  7 05:44 abc.txt
+-rw-rw-r-- 1 kartikaya0312 kartikaya0312    0 May  7 05:44 data.txt
+-rw-rw-r-- 1 kartikaya0312 kartikaya0312 174M May  7 05:56 hack.html
+-rw-rw-r-- 1 kartikaya0312 kartikaya0312 432K May  7 06:01 kar2.tar
+-rw-rw-r-- 1 kartikaya0312 kartikaya0312 174M May  7 05:59 kar.tar
+drwxrwxr-x 2 kartikaya0312 kartikaya0312 4.0K May  7 06:18 test
+-rw-rw-r-- 1 kartikaya0312 kartikaya0312  10K May  7 05:46 yash.tar
+kartikaya0312@cloudshell:~$ ^C
+kartikaya0312@cloudshell:~$ rm -r *
+kartikaya0312@cloudshell:~$ ls 
+kartikaya0312@cloudshell:~$ touch data.txt
+kartikaya0312@cloudshell:~$ ls -lh
+total 0
+-rw-rw-r-- 1 kartikaya0312 kartikaya0312 0 May  7 06:20 data.txt
+kartikaya0312@cloudshell:~$ whoami
+kartikaya0312
+kartikaya0312@cloudshell:~$ cat data.text
+cat: data.text: No such file or directory
+kartikaya0312@cloudshell:~$ cat data.txt
+kartikaya0312@cloudshell:~$ echo "hello" > data.txt
+kartikaya0312@cloudshell:~$ cat data.txt
+hello
+kartikaya0312@cloudshell:~$ ls -lh
+total 4.0K
+-rw-rw-r-- 1 kartikaya0312 kartikaya0312 6 May  7 06:21 data.txt
+kartikaya0312@cloudshell:~$ chmod u-w data.txt
+kartikaya0312@cloudshell:~$ ls -lh
+total 4.0K
+-r--rw-r-- 1 kartikaya0312 kartikaya0312 6 May  7 06:21 data.txt
+kartikaya0312@cloudshell:~$ echo "hey" > data.txt 
+-bash: data.txt: Permission denied
+kartikaya0312@cloudshell:~$ chmod u+rw g+rwx o+rx data.txt
+chmod: cannot access 'g+rwx': No such file or directory
+chmod: cannot access 'o+rx': No such file or directory
+kartikaya0312@cloudshell:~$ ls -lh
+total 4.0K
+-rw-rw-r-- 1 kartikaya0312 kartikaya0312 6 May  7 06:21 data.txt
+kartikaya0312@cloudshell:~$ chmod g+rwx data.txt
+kartikaya0312@cloudshell:~$ chmod o+rx data.txt
+kartikaya0312@cloudshell:~$ ls -lh
+total 4.0K
+-rw-rwxr-x 1 kartikaya0312 kartikaya0312 6 May  7 06:21 data.txt
+kartikaya0312@cloudshell:~$ chmod go-rx
+chmod: missing operand after ‘go-rx’
+Try 'chmod --help' for more information.
+kartikaya0312@cloudshell:~$ chmod go-rx data.txt
+kartikaya0312@cloudshell:~$ ls -lh
+total 4.0K
+-rw--w---- 1 kartikaya0312 kartikaya0312 6 May  7 06:21 data.txt
+kartikaya0312@cloudshell:~$ touch abc.txt
+kartikaya0312@cloudshell:~$ ls -lh 
+total 4.0K
+-rw-rw-r-- 1 kartikaya0312 kartikaya0312 0 May  7 06:31 abc.txt
+-rw--w---- 1 kartikaya0312 kartikaya0312 6 May  7 06:21 data.txt
+kartikaya0312@cloudshell:~$ chmod 666 abc.txt
+kartikaya0312@cloudshell:~$ ls -lh 
+total 4.0K
+-rw-rw-rw- 1 kartikaya0312 kartikaya0312 0 May  7 06:31 abc.txt
+-rw--w---- 1 kartikaya0312 kartikaya0312 6 May  7 06:21 data.txt
+kartikaya0312@cloudshell:~$ chmod 475 abc.txt
+kartikaya0312@cloudshell:~$ ls -lh 
+total 4.0K
+-r--rwxr-x 1 kartikaya0312 kartikaya0312 0 May  7 06:31 abc.txt
+-rw--w---- 1 kartikaya0312 kartikaya0312 6 May  7 06:21 data.txt
+kartikaya0312@cloudshell:~$ mkdir newfolder 
+kartikaya0312@cloudshell:~$ ls -lh 
+total 8.0K
+-r--rwxr-x 1 kartikaya0312 kartikaya0312    0 May  7 06:31 abc.txt
+-rw--w---- 1 kartikaya0312 kartikaya0312    6 May  7 06:21 data.txt
+drwxrwxr-x 2 kartikaya0312 kartikaya0312 4.0K May  7 06:34 newfolder
+kartikaya0312@cloudshell:~$ chmod 0 newfolder 
+kartikaya0312@cloudshell:~$ ls -lh 
+total 8.0K
+-r--rwxr-x 1 kartikaya0312 kartikaya0312    0 May  7 06:31 abc.txt
+-rw--w---- 1 kartikaya0312 kartikaya0312    6 May  7 06:21 data.txt
+d--------- 2 kartikaya0312 kartikaya0312 4.0K May  7 06:34 newfolder
+kartikaya0312@cloudshell:~$ chmod 075 newfolder 
+kartikaya0312@cloudshell:~$ ls -lh 
+total 8.0K
+-r--rwxr-x 1 kartikaya0312 kartikaya0312    0 May  7 06:31 abc.txt
+-rw--w---- 1 kartikaya0312 kartikaya0312    6 May  7 06:21 data.txt
+d---rwxr-x 2 kartikaya0312 kartikaya0312 4.0K May  7 06:34 newfolder
+kartikaya0312@cloudshell:~$ cd newfolder 
+-bash: cd: newfolder: Permission denied
+kartikaya0312@cloudshell:~$ chmod 175 newfolder 
+kartikaya0312@cloudshell:~$ ls -lh 
+total 8.0K
+-r--rwxr-x 1 kartikaya0312 kartikaya0312    0 May  7 06:31 abc.txt
+-rw--w---- 1 kartikaya0312 kartikaya0312    6 May  7 06:21 data.txt
+d--xrwxr-x 2 kartikaya0312 kartikaya0312 4.0K May  7 06:34 newfolder
+kartikaya0312@cloudshell:~$ cd newfolder 
+kartikaya0312@cloudshell:~/newfolder$ touch 1
+touch: cannot touch '1': Permission denied
+kartikaya0312@cloudshell:~/newfolder$ cd ..
+kartikaya0312@cloudshell:~$ chmod 375 newfolder 
+kartikaya0312@cloudshell:~$ ls -lh 
+total 8.0K
+-r--rwxr-x 1 kartikaya0312 kartikaya0312    0 May  7 06:31 abc.txt
+-rw--w---- 1 kartikaya0312 kartikaya0312    6 May  7 06:21 data.txt
+d-wxrwxr-x 2 kartikaya0312 kartikaya0312 4.0K May  7 06:34 newfolder
+kartikaya0312@cloudshell:~$ cd newfolder 
+kartikaya0312@cloudshell:~/newfolder$ touch new.txt
+kartikaya0312@cloudshell:~/newfolder$ ls 
+ls: cannot open directory '.': Permission denied
+kartikaya0312@cloudshell:~/newfolder$ touch file{1..200}.txt
+kartikaya0312@cloudshell:~/newfolder$ ls 
+ls: cannot open directory '.': Permission denied
+kartikaya0312@cloudshell:~/newfolder$ cd ..
+kartikaya0312@cloudshell:~$ chmod 777 newfolder 
+kartikaya0312@cloudshell:~$ cd newfolder 
+kartikaya0312@cloudshell:~/newfolder$ ls 
+file100.txt  file115.txt  file12.txt   file144.txt  file159.txt  file173.txt  file188.txt  file20.txt  file35.txt  file4.txt   file64.txt  file79.txt  file93.txt
+file101.txt  file116.txt  file130.txt  file145.txt  file15.txt   file174.txt  file189.txt  file21.txt  file36.txt  file50.txt  file65.txt  file7.txt   file94.txt
+file102.txt  file117.txt  file131.txt  file146.txt  file160.txt  file175.txt  file18.txt   file22.txt  file37.txt  file51.txt  file66.txt  file80.txt  file95.txt
+file103.txt  file118.txt  file132.txt  file147.txt  file161.txt  file176.txt  file190.txt  file23.txt  file38.txt  file52.txt  file67.txt  file81.txt  file96.txt
+file104.txt  file119.txt  file133.txt  file148.txt  file162.txt  file177.txt  file191.txt  file24.txt  file39.txt  file53.txt  file68.txt  file82.txt  file97.txt
+file105.txt  file11.txt   file134.txt  file149.txt  file163.txt  file178.txt  file192.txt  file25.txt  file3.txt   file54.txt  file69.txt  file83.txt  file98.txt
+file106.txt  file120.txt  file135.txt  file14.txt   file164.txt  file179.txt  file193.txt  file26.txt  file40.txt  file55.txt  file6.txt   file84.txt  file99.txt
+file107.txt  file121.txt  file136.txt  file150.txt  file165.txt  file17.txt   file194.txt  file27.txt  file41.txt  file56.txt  file70.txt  file85.txt  file9.txt
+file108.txt  file122.txt  file137.txt  file151.txt  file166.txt  file180.txt  file195.txt  file28.txt  file42.txt  file57.txt  file71.txt  file86.txt  new.txt
+file109.txt  file123.txt  file138.txt  file152.txt  file167.txt  file181.txt  file196.txt  file29.txt  file43.txt  file58.txt  file72.txt  file87.txt
+file10.txt   file124.txt  file139.txt  file153.txt  file168.txt  file182.txt  file197.txt  file2.txt   file44.txt  file59.txt  file73.txt  file88.txt
+file110.txt  file125.txt  file13.txt   file154.txt  file169.txt  file183.txt  file198.txt  file30.txt  file45.txt  file5.txt   file74.txt  file89.txt
+file111.txt  file126.txt  file140.txt  file155.txt  file16.txt   file184.txt  file199.txt  file31.txt  file46.txt  file60.txt  file75.txt  file8.txt
+file112.txt  file127.txt  file141.txt  file156.txt  file170.txt  file185.txt  file19.txt   file32.txt  file47.txt  file61.txt  file76.txt  file90.txt
+file113.txt  file128.txt  file142.txt  file157.txt  file171.txt  file186.txt  file1.txt    file33.txt  file48.txt  file62.txt  file77.txt  file91.txt
+file114.txt  file129.txt  file143.txt  file158.txt  file172.txt  file187.txt  file200.txt  file34.txt  file49.txt  file63.txt  file78.txt  file92.txt
+kartikaya0312@cloudshell:~/newfolder$ rm file{1..100}.txt
+kartikaya0312@cloudshell:~/newfolder$ ls 
+file101.txt  file109.txt  file117.txt  file125.txt  file133.txt  file141.txt  file149.txt  file157.txt  file165.txt  file173.txt  file181.txt  file189.txt  file197.txt
+file102.txt  file110.txt  file118.txt  file126.txt  file134.txt  file142.txt  file150.txt  file158.txt  file166.txt  file174.txt  file182.txt  file190.txt  file198.txt
+file103.txt  file111.txt  file119.txt  file127.txt  file135.txt  file143.txt  file151.txt  file159.txt  file167.txt  file175.txt  file183.txt  file191.txt  file199.txt
+file104.txt  file112.txt  file120.txt  file128.txt  file136.txt  file144.txt  file152.txt  file160.txt  file168.txt  file176.txt  file184.txt  file192.txt  file200.txt
+file105.txt  file113.txt  file121.txt  file129.txt  file137.txt  file145.txt  file153.txt  file161.txt  file169.txt  file177.txt  file185.txt  file193.txt  new.txt
+file106.txt  file114.txt  file122.txt  file130.txt  file138.txt  file146.txt  file154.txt  file162.txt  file170.txt  file178.txt  file186.txt  file194.txt
+file107.txt  file115.txt  file123.txt  file131.txt  file139.txt  file147.txt  file155.txt  file163.txt  file171.txt  file179.txt  file187.txt  file195.txt
+file108.txt  file116.txt  file124.txt  file132.txt  file140.txt  file148.txt  file156.txt  file164.txt  file172.txt  file180.txt  file188.txt  file196.txt
+kartikaya0312@cloudshell:~/newfolder$ for i in {101..107}; do
+    read -p "Do you want to remove file${i}.txt? (y/n) " answer
+    if [[ $answer =~ ^[Yy]$ ]]; then
+        rm file${i}.txt
+    elif [[ $answer =~ ^[Nn]$ ]]; then
+        echo "Skipping file${i}.txt"
+    else
+        echo "Invalid input. Skipping file${i}.txt"
+    fi
+done
+Do you want to remove file101.txt? (y/n) y
+Do you want to remove file102.txt? (y/n) y
+Do you want to remove file103.txt? (y/n) n
+Skipping file103.txt
+Do you want to remove file104.txt? (y/n) n
+Skipping file104.txt
+Do you want to remove file105.txt? (y/n) y
+Do you want to remove file106.txt? (y/n) y
+Do you want to remove file107.txt? (y/n) y
+kartikaya0312@cloudshell:~/newfolder$ ls 
+file103.txt  file114.txt  file122.txt  file130.txt  file138.txt  file146.txt  file154.txt  file162.txt  file170.txt  file178.txt  file186.txt  file194.txt
+file104.txt  file115.txt  file123.txt  file131.txt  file139.txt  file147.txt  file155.txt  file163.txt  file171.txt  file179.txt  file187.txt  file195.txt
+file108.txt  file116.txt  file124.txt  file132.txt  file140.txt  file148.txt  file156.txt  file164.txt  file172.txt  file180.txt  file188.txt  file196.txt
+file109.txt  file117.txt  file125.txt  file133.txt  file141.txt  file149.txt  file157.txt  file165.txt  file173.txt  file181.txt  file189.txt  file197.txt
+file110.txt  file118.txt  file126.txt  file134.txt  file142.txt  file150.txt  file158.txt  file166.txt  file174.txt  file182.txt  file190.txt  file198.txt
+file111.txt  file119.txt  file127.txt  file135.txt  file143.txt  file151.txt  file159.txt  file167.txt  file175.txt  file183.txt  file191.txt  file199.txt
+file112.txt  file120.txt  file128.txt  file136.txt  file144.txt  file152.txt  file160.txt  file168.txt  file176.txt  file184.txt  file192.txt  file200.txt
+file113.txt  file121.txt  file129.txt  file137.txt  file145.txt  file153.txt  file161.txt  file169.txt  file177.txt  file185.txt  file193.txt  new.txt
+kartikaya0312@cloudshell:~/newfolder$ mv newfolder aman
+mv: cannot stat 'newfolder': No such file or directory
+kartikaya0312@cloudshell:~/newfolder$ cd ..
+kartikaya0312@cloudshell:~$ mv newfolder aman
+kartikaya0312@cloudshell:~$ ls
+abc.txt  aman  data.txt
+kartikaya0312@cloudshell:~$ ls
+abc.txt  aman  data.txt
+kartikaya0312@cloudshell:~$ cd aman
+kartikaya0312@cloudshell:~/aman$ ls
+file103.txt  file114.txt  file122.txt  file130.txt  file138.txt  file146.txt  file154.txt  file162.txt  file170.txt  file178.txt  file186.txt  file194.txt
+file104.txt  file115.txt  file123.txt  file131.txt  file139.txt  file147.txt  file155.txt  file163.txt  file171.txt  file179.txt  file187.txt  file195.txt
+file108.txt  file116.txt  file124.txt  file132.txt  file140.txt  file148.txt  file156.txt  file164.txt  file172.txt  file180.txt  file188.txt  file196.txt
+file109.txt  file117.txt  file125.txt  file133.txt  file141.txt  file149.txt  file157.txt  file165.txt  file173.txt  file181.txt  file189.txt  file197.txt
+file110.txt  file118.txt  file126.txt  file134.txt  file142.txt  file150.txt  file158.txt  file166.txt  file174.txt  file182.txt  file190.txt  file198.txt
+file111.txt  file119.txt  file127.txt  file135.txt  file143.txt  file151.txt  file159.txt  file167.txt  file175.txt  file183.txt  file191.txt  file199.txt
+file112.txt  file120.txt  file128.txt  file136.txt  file144.txt  file152.txt  file160.txt  file168.txt  file176.txt  file184.txt  file192.txt  file200.txt
+file113.txt  file121.txt  file129.txt  file137.txt  file145.txt  file153.txt  file161.txt  file169.txt  file177.txt  file185.txt  file193.txt  new.txt
+kartikaya0312@cloudshell:~/aman$ cd ..
+kartikaya0312@cloudshell:~$ mkdir aditya 
+kartikaya0312@cloudshell:~$ ls
+abc.txt  aditya  aman  data.txt
+kartikaya0312@cloudshell:~$ cp /home/kartikaya0312/aman/ /home/kartikaya0312/aditya/
+cp: -r not specified; omitting directory '/home/kartikaya0312/aman/'
+kartikaya0312@cloudshell:~$ cp -rv /home/kartikaya0312/aman/ /home/kartikaya0312/aditya/
+'/home/kartikaya0312/aman/' -> '/home/kartikaya0312/aditya/aman'
+'/home/kartikaya0312/aman/new.txt' -> '/home/kartikaya0312/aditya/aman/new.txt'
+'/home/kartikaya0312/aman/file103.txt' -> '/home/kartikaya0312/aditya/aman/file103.txt'
+'/home/kartikaya0312/aman/file104.txt' -> '/home/kartikaya0312/aditya/aman/file104.txt'
+'/home/kartikaya0312/aman/file108.txt' -> '/home/kartikaya0312/aditya/aman/file108.txt'
+'/home/kartikaya0312/aman/file109.txt' -> '/home/kartikaya0312/aditya/aman/file109.txt'
+'/home/kartikaya0312/aman/file110.txt' -> '/home/kartikaya0312/aditya/aman/file110.txt'
+'/home/kartikaya0312/aman/file111.txt' -> '/home/kartikaya0312/aditya/aman/file111.txt'
+'/home/kartikaya0312/aman/file112.txt' -> '/home/kartikaya0312/aditya/aman/file112.txt'
+'/home/kartikaya0312/aman/file113.txt' -> '/home/kartikaya0312/aditya/aman/file113.txt'
+'/home/kartikaya0312/aman/file114.txt' -> '/home/kartikaya0312/aditya/aman/file114.txt'
+'/home/kartikaya0312/aman/file115.txt' -> '/home/kartikaya0312/aditya/aman/file115.txt'
+'/home/kartikaya0312/aman/file116.txt' -> '/home/kartikaya0312/aditya/aman/file116.txt'
+'/home/kartikaya0312/aman/file117.txt' -> '/home/kartikaya0312/aditya/aman/file117.txt'
+'/home/kartikaya0312/aman/file118.txt' -> '/home/kartikaya0312/aditya/aman/file118.txt'
+'/home/kartikaya0312/aman/file119.txt' -> '/home/kartikaya0312/aditya/aman/file119.txt'
+'/home/kartikaya0312/aman/file120.txt' -> '/home/kartikaya0312/aditya/aman/file120.txt'
+'/home/kartikaya0312/aman/file121.txt' -> '/home/kartikaya0312/aditya/aman/file121.txt'
+'/home/kartikaya0312/aman/file122.txt' -> '/home/kartikaya0312/aditya/aman/file122.txt'
+'/home/kartikaya0312/aman/file123.txt' -> '/home/kartikaya0312/aditya/aman/file123.txt'
+'/home/kartikaya0312/aman/file124.txt' -> '/home/kartikaya0312/aditya/aman/file124.txt'
+'/home/kartikaya0312/aman/file125.txt' -> '/home/kartikaya0312/aditya/aman/file125.txt'
+'/home/kartikaya0312/aman/file126.txt' -> '/home/kartikaya0312/aditya/aman/file126.txt'
+'/home/kartikaya0312/aman/file127.txt' -> '/home/kartikaya0312/aditya/aman/file127.txt'
+'/home/kartikaya0312/aman/file128.txt' -> '/home/kartikaya0312/aditya/aman/file128.txt'
+'/home/kartikaya0312/aman/file129.txt' -> '/home/kartikaya0312/aditya/aman/file129.txt'
+'/home/kartikaya0312/aman/file130.txt' -> '/home/kartikaya0312/aditya/aman/file130.txt'
+'/home/kartikaya0312/aman/file131.txt' -> '/home/kartikaya0312/aditya/aman/file131.txt'
+'/home/kartikaya0312/aman/file132.txt' -> '/home/kartikaya0312/aditya/aman/file132.txt'
+'/home/kartikaya0312/aman/file133.txt' -> '/home/kartikaya0312/aditya/aman/file133.txt'
+'/home/kartikaya0312/aman/file134.txt' -> '/home/kartikaya0312/aditya/aman/file134.txt'
+'/home/kartikaya0312/aman/file135.txt' -> '/home/kartikaya0312/aditya/aman/file135.txt'
+'/home/kartikaya0312/aman/file136.txt' -> '/home/kartikaya0312/aditya/aman/file136.txt'
+'/home/kartikaya0312/aman/file137.txt' -> '/home/kartikaya0312/aditya/aman/file137.txt'
+'/home/kartikaya0312/aman/file138.txt' -> '/home/kartikaya0312/aditya/aman/file138.txt'
+'/home/kartikaya0312/aman/file139.txt' -> '/home/kartikaya0312/aditya/aman/file139.txt'
+'/home/kartikaya0312/aman/file140.txt' -> '/home/kartikaya0312/aditya/aman/file140.txt'
+'/home/kartikaya0312/aman/file141.txt' -> '/home/kartikaya0312/aditya/aman/file141.txt'
+'/home/kartikaya0312/aman/file142.txt' -> '/home/kartikaya0312/aditya/aman/file142.txt'
+'/home/kartikaya0312/aman/file143.txt' -> '/home/kartikaya0312/aditya/aman/file143.txt'
+'/home/kartikaya0312/aman/file144.txt' -> '/home/kartikaya0312/aditya/aman/file144.txt'
+'/home/kartikaya0312/aman/file145.txt' -> '/home/kartikaya0312/aditya/aman/file145.txt'
+'/home/kartikaya0312/aman/file146.txt' -> '/home/kartikaya0312/aditya/aman/file146.txt'
+'/home/kartikaya0312/aman/file147.txt' -> '/home/kartikaya0312/aditya/aman/file147.txt'
+'/home/kartikaya0312/aman/file148.txt' -> '/home/kartikaya0312/aditya/aman/file148.txt'
+'/home/kartikaya0312/aman/file149.txt' -> '/home/kartikaya0312/aditya/aman/file149.txt'
+'/home/kartikaya0312/aman/file150.txt' -> '/home/kartikaya0312/aditya/aman/file150.txt'
+'/home/kartikaya0312/aman/file151.txt' -> '/home/kartikaya0312/aditya/aman/file151.txt'
+'/home/kartikaya0312/aman/file152.txt' -> '/home/kartikaya0312/aditya/aman/file152.txt'
+'/home/kartikaya0312/aman/file153.txt' -> '/home/kartikaya0312/aditya/aman/file153.txt'
+'/home/kartikaya0312/aman/file154.txt' -> '/home/kartikaya0312/aditya/aman/file154.txt'
+'/home/kartikaya0312/aman/file155.txt' -> '/home/kartikaya0312/aditya/aman/file155.txt'
+'/home/kartikaya0312/aman/file156.txt' -> '/home/kartikaya0312/aditya/aman/file156.txt'
+'/home/kartikaya0312/aman/file157.txt' -> '/home/kartikaya0312/aditya/aman/file157.txt'
+'/home/kartikaya0312/aman/file158.txt' -> '/home/kartikaya0312/aditya/aman/file158.txt'
+'/home/kartikaya0312/aman/file159.txt' -> '/home/kartikaya0312/aditya/aman/file159.txt'
+'/home/kartikaya0312/aman/file160.txt' -> '/home/kartikaya0312/aditya/aman/file160.txt'
+'/home/kartikaya0312/aman/file161.txt' -> '/home/kartikaya0312/aditya/aman/file161.txt'
+'/home/kartikaya0312/aman/file162.txt' -> '/home/kartikaya0312/aditya/aman/file162.txt'
+'/home/kartikaya0312/aman/file163.txt' -> '/home/kartikaya0312/aditya/aman/file163.txt'
+'/home/kartikaya0312/aman/file164.txt' -> '/home/kartikaya0312/aditya/aman/file164.txt'
+'/home/kartikaya0312/aman/file165.txt' -> '/home/kartikaya0312/aditya/aman/file165.txt'
+'/home/kartikaya0312/aman/file166.txt' -> '/home/kartikaya0312/aditya/aman/file166.txt'
+'/home/kartikaya0312/aman/file167.txt' -> '/home/kartikaya0312/aditya/aman/file167.txt'
+'/home/kartikaya0312/aman/file168.txt' -> '/home/kartikaya0312/aditya/aman/file168.txt'
+'/home/kartikaya0312/aman/file169.txt' -> '/home/kartikaya0312/aditya/aman/file169.txt'
+'/home/kartikaya0312/aman/file170.txt' -> '/home/kartikaya0312/aditya/aman/file170.txt'
+'/home/kartikaya0312/aman/file171.txt' -> '/home/kartikaya0312/aditya/aman/file171.txt'
+'/home/kartikaya0312/aman/file172.txt' -> '/home/kartikaya0312/aditya/aman/file172.txt'
+'/home/kartikaya0312/aman/file173.txt' -> '/home/kartikaya0312/aditya/aman/file173.txt'
+'/home/kartikaya0312/aman/file174.txt' -> '/home/kartikaya0312/aditya/aman/file174.txt'
+'/home/kartikaya0312/aman/file175.txt' -> '/home/kartikaya0312/aditya/aman/file175.txt'
+'/home/kartikaya0312/aman/file176.txt' -> '/home/kartikaya0312/aditya/aman/file176.txt'
+'/home/kartikaya0312/aman/file177.txt' -> '/home/kartikaya0312/aditya/aman/file177.txt'
+'/home/kartikaya0312/aman/file178.txt' -> '/home/kartikaya0312/aditya/aman/file178.txt'
+'/home/kartikaya0312/aman/file179.txt' -> '/home/kartikaya0312/aditya/aman/file179.txt'
+'/home/kartikaya0312/aman/file180.txt' -> '/home/kartikaya0312/aditya/aman/file180.txt'
+'/home/kartikaya0312/aman/file181.txt' -> '/home/kartikaya0312/aditya/aman/file181.txt'
+'/home/kartikaya0312/aman/file182.txt' -> '/home/kartikaya0312/aditya/aman/file182.txt'
+'/home/kartikaya0312/aman/file183.txt' -> '/home/kartikaya0312/aditya/aman/file183.txt'
+'/home/kartikaya0312/aman/file184.txt' -> '/home/kartikaya0312/aditya/aman/file184.txt'
+'/home/kartikaya0312/aman/file185.txt' -> '/home/kartikaya0312/aditya/aman/file185.txt'
+'/home/kartikaya0312/aman/file186.txt' -> '/home/kartikaya0312/aditya/aman/file186.txt'
+'/home/kartikaya0312/aman/file187.txt' -> '/home/kartikaya0312/aditya/aman/file187.txt'
+'/home/kartikaya0312/aman/file188.txt' -> '/home/kartikaya0312/aditya/aman/file188.txt'
+'/home/kartikaya0312/aman/file189.txt' -> '/home/kartikaya0312/aditya/aman/file189.txt'
+'/home/kartikaya0312/aman/file190.txt' -> '/home/kartikaya0312/aditya/aman/file190.txt'
+'/home/kartikaya0312/aman/file191.txt' -> '/home/kartikaya0312/aditya/aman/file191.txt'
+'/home/kartikaya0312/aman/file192.txt' -> '/home/kartikaya0312/aditya/aman/file192.txt'
+'/home/kartikaya0312/aman/file193.txt' -> '/home/kartikaya0312/aditya/aman/file193.txt'
+'/home/kartikaya0312/aman/file194.txt' -> '/home/kartikaya0312/aditya/aman/file194.txt'
+'/home/kartikaya0312/aman/file195.txt' -> '/home/kartikaya0312/aditya/aman/file195.txt'
+'/home/kartikaya0312/aman/file196.txt' -> '/home/kartikaya0312/aditya/aman/file196.txt'
+'/home/kartikaya0312/aman/file197.txt' -> '/home/kartikaya0312/aditya/aman/file197.txt'
+'/home/kartikaya0312/aman/file198.txt' -> '/home/kartikaya0312/aditya/aman/file198.txt'
+'/home/kartikaya0312/aman/file199.txt' -> '/home/kartikaya0312/aditya/aman/file199.txt'
+'/home/kartikaya0312/aman/file200.txt' -> '/home/kartikaya0312/aditya/aman/file200.txt'
+kartikaya0312@cloudshell:~$ hsitory
+-bash: hsitory: command not found
+kartikaya0312@cloudshell:~$ history
+    1  pwd
+    2  ls
+    3  mkdir
+    4  mkdir kartik_awas
+    5  ls
+    6  rmdir kartik_awas
+    7  ls
+    8  mkdir salman
+    9  ls
+   10  pwd 
+   11  cd salman
+   12  pwd 
+   13  mkdir folder_1 folder_2
+   14  ls
+   15  touch data.txt
+   16  ls
+   17  rmdir folder_2
+   18  ls
+   19  rmdie data.txt 
+   20  rmdir data.txt
+   21  rm data.txt
+   22  ls
+   23  pwd 
+   24  cd ..
+   25  pwd 
+   26  ls
+   27  rmdir salman
+   28  rm salman
+   29  rm  -rv  salman
+   30  mkdir regex
+   31  ls
+   32  cd regex
+   33  touch 1.txt 2.txt 3.txt 4.txt 5.txt 6.txt 7.txt 8.txt 9.txt 10.txt
+   34  mkdir f1 f2 f3 f4 f5 f6 
+   35  ls
+   36  rm 1.txt 5.txt 9.txt 
+   37  rmdir f1 f2 f3 f4
+   38  ls
+   39  rm -rv regex
+   40  cd ..
+   41  rm -rv regex
+   42  pwd 
+   43  ls
+   44  mkdir virat anushka
+   45  ls
+   46  cd virat
+   47  touch 10cr.txt
+   48  ls
+   49  cp /home/kartikaya0312/virat/10cr.txt /home/kartikaya0312/anushka
+   50  touch movie.txt
+   51  ls
+   52  cd ..
+   53  cd anushka
+   54  ls'
+   55  ls
+   56  cd ..
+   57  back
+   58  '
+   59  ls
+   60  ls /home/kartikaya0312/anushka/
+   61  cp /home/kartikaya0312/virat/10cr.txt /home/kartikaya0312/anushka/
+   62  ls
+   63  pwd
+   64  ls
+   65  cd ..
+   66  cd virat 
+   67  rm /home/kartikaya0312/virat/10cr.txt 
+   68  ls
+   69  cd ..
+   70  cp /home/kartikaya0312/anushka/10cr.txt /home/kartikaya0312/virat/
+   71  cd virat
+   72  ls
+   73  cd ..
+   74  mv /home/kartikaya0312/virat/movie.txt /home/kartikaya0312/anushka/
+   75  cd virat/
+   76  ls
+   77  cd ..
+   78  cd anushka/
+   79  ls
+   80  cd ..
+   81  mkdir aman aditya 
+   82  cd aman 
+   83  touch 1 2 3 
+   84  ls
+   85  cp /home/kartikaya0312/aman/1 /home/kartikaya0312/aditya/
+   86  cp /home/kartikaya0312/aman/2 /home/kartikaya0312/aditya/newfile
+   87  mv /home/kartikaya0312/aman/3 /home/kartikaya0312/aditya/
+   88  cp /home/kartikaya0312/aman/ /home/kartikaya0312/aditya/
+   89  cp -rv /home/kartikaya0312/aman/ /home/kartikaya0312/aditya/
+   90  cd .. 
+   91  cd aditya 
+   92  ls
+   93  aman
+   94  ls /home/kartikaya0312/aditya/aman/
+   95  history
+   96  pwd 
+   97  ls
+   98  history 
+   99  cd aditya
+  100  ls
+  101  cd ..
+  102  vi regex.txt
+  103  ls
+  104  vi regex.txt 
+  105  vi regex.txt
+  106  ls
+  107  vi regex.txt
+  108  rm regex.txt.swp
+  109  cat regex.txt
+  110  vi regex.txt
+  111  rm regex.txt
+  112  ls
+  113  vi regex.txt
+  114  echo "hello"
+  115  date
+  116  ls 
+  117  touch abc.txt
+  118  ls
+  119  date > file.txt
+  120  ls
+  121  cat file.txt
+  122  echo "hey i am kartikaya" > file.txt
+  123  cat file.txt
+  124  date >> file.txt
+  125  cat file.txt
+  126  ls 
+  127  rm -r *
+  128  ls
+  129  touch abc.txt data.txt
+  130  tar -cf yash.tar abc.txt data.txt
+  131  ls
+  132  tar -tf yash.tar
+  133  rm abc.txt data.txt
+  134  ls
+  135  tar -xf yash.tar
+  136  ls
+  137  ls -lh
+  138  yes "hacker haxk account"
+  139  yes "hacker hack account" > hack.html
+  140  ls -lh
+  141  tar -cf kar.tar hack.html
+  142  ls -lh 
+  143  tar -czf kar2.tar hack.html
+  144  ls -lh
+  145  mkdir test 
+  146  ls -lh
+  147  rm -r *
+  148  ls 
+  149  touch data.txt
+  150  ls -lh
+  151  whoami
+  152  cat data.text
+  153  cat data.txt
+  154  echo "hello" > data.txt
+  155  cat data.txt
+  156  ls -lh
+  157  chmod u-w data.txt
+  158  ls -lh
+  159  echo "hey" > data.txt 
+  160  chmod u+rw g+rwx o+rx data.txt
+  161  ls -lh
+  162  chmod g+rwx data.txt
+  163  chmod o+rx data.txt
+  164  ls -lh
+  165  chmod go-rx
+  166  chmod go-rx data.txt
+  167  ls -lh
+  168  touch abc.txt
+  169  ls -lh 
+  170  chmod 666 abc.txt
+  171  ls -lh 
+  172  chmod 475 abc.txt
+  173  ls -lh 
+  174  mkdir newfolder 
+  175  ls -lh 
+  176  chmod 0 newfolder 
+  177  ls -lh 
+  178  chmod 075 newfolder 
+  179  ls -lh 
+  180  cd newfolder 
+  181  chmod 175 newfolder 
+  182  ls -lh 
+  183  cd newfolder 
+  184  touch 1
+  185  cd ..
+  186  chmod 375 newfolder 
+  187  ls -lh 
+  188  cd newfolder 
+  189  touch new.txt
+  190  ls 
+  191  touch file{1..200}.txt
+  192  ls 
+  193  cd ..
+  194  chmod 777 newfolder 
+  195  cd newfolder 
+  196  ls 
+  197  rm file{1..100}.txt
+  198  ls 
+  199  for i in {101..107}; do     read -p "Do you want to remove file${i}.txt? (y/n) " answer;     if [[ $answer =~ ^[Yy]$ ]]; then         rm file${i}.txt;     elif [[ $answer =~ ^[Nn]$ ]]; then         echo "Skipping file${i}.txt";     else         echo "Invalid input. Skipping file${i}.txt";     fi; done
+  200  ls 
+  201  mv newfolder aman
+  202  cd ..
+  203  mv newfolder aman
+  204  ls
+  205  cd aman
+  206  ls
+  207  cd ..
+  208  mkdir aditya 
+  209  ls
+  210  cp /home/kartikaya0312/aman/ /home/kartikaya0312/aditya/
+  211  cp -rv /home/kartikaya0312/aman/ /home/kartikaya0312/aditya/
+  212  hsitory
+  213  history
+kartikaya0312@cloudshell:~$ mk_xyz() {
+    # Create xyz folder
+    mkdir -p /home/user/xyz
+
+    # Create Desktop folder
+    mkdir -p /home/user/Desktop
+
+    # Create abc and def folders inside Desktop
+    mkdir -p /home/user/Desktop/abc /home/user/Desktop/def
+
+    # Move xyz folder to def folder
+    mv /home/user/xyz /home/user/Desktop/def/
+}
+
+# Execute the function
+mk_xyz
+mkdir: cannot create directory ‘/home/user’: Permission denied
+mkdir: cannot create directory ‘/home/user’: Permission denied
+mkdir: cannot create directory ‘/home/user’: Permission denied
+mkdir: cannot create directory ‘/home/user’: Permission denied
+mv: cannot stat '/home/user/xyz': No such file or directory
+kartikaya0312@cloudshell:~$ mk_xyz() {
+    # Create xyz folder
+    mkdir -p /home/user/xyz
+
+    # Create Desktop folder
+    mkdir -p /home/user/Desktop
+
+    # Create abc and def folders inside Desktop
+    mkdir -p /home/user/Desktop/abc /home/user/Desktop/def
+
+    # Move xyz folder to def folder
+    mv /home/user/xyz /home/user/Desktop/def/
+}
+
+# Execute the function
+mk_xyz
+mkdir: cannot create directory ‘/home/user’: Permission denied
+mkdir: cannot create directory ‘/home/user’: Permission denied
+mkdir: cannot create directory ‘/home/user’: Permission denied
+mkdir: cannot create directory ‘/home/user’: Permission denied
+mv: cannot stat '/home/user/xyz': No such file or directory
+kartikaya0312@cloudshell:~$ mk_xyz(){
+> mkdir -p /home/kartikaya0312/xyz
+> mkdir -p /home/kartikaya0312/Desktop
+> mkdir -p /home/kartikaya0312/Desktop/abc /home/kartikaya0312/Desktop/def
+> mv /home/kartikaya0312/xyz /home/kartikaya0312/Desktop/def/
+> }
+kartikaya0312@cloudshell:~$ mk_xyz
+kartikaya0312@cloudshell:~$ ls
+abc.txt  aditya  aman  data.txt  Desktop
+kartikaya0312@cloudshell:~$ cd Desktop/
+kartikaya0312@cloudshell:~/Desktop$ ls
+abc  def
+kartikaya0312@cloudshell:~/Desktop$ cd def 
+kartikaya0312@cloudshell:~/Desktop/def$ ls
+xyz
+kartikaya0312@cloudshell:~/Desktop/def$ cd ..
+kartikaya0312@cloudshell:~/Desktop$ cd ..
+kartikaya0312@cloudshell:~$ echo "mkdir my_folder" | at 3:00 PM
+-bash: at: command not found
+kartikaya0312@cloudshell:~$ echo "mkdir my_folder" | at 13:10 PM
+-bash: at: command not found
+kartikaya0312@cloudshell:~$ sudo apt-get install at
+********************************************************************************
+You are running apt-get inside of Cloud Shell. Note that your Cloud Shell  
+machine is ephemeral and no system-wide change will persist beyond session end. 
+
+To suppress this warning, create an empty ~/.cloudshell/no-apt-get-warning file.
+The command will automatically proceed in 5 seconds or on any key. 
+
+Visit https://cloud.google.com/shell/help for more information.                 
+********************************************************************************
+Reading package lists... Done
+Building dependency tree... Done
+Reading state information... Done
+Suggested packages:
+  default-mta | mail-transport-agent
+The following NEW packages will be installed:
+  at
+0 upgraded, 1 newly installed, 0 to remove and 9 not upgraded.
+Need to get 41.1 kB of archives.
+After this operation, 166 kB of additional disk space will be used.
+Get:1 http://archive.ubuntu.com/ubuntu jammy/universe amd64 at amd64 3.2.5-1ubuntu1 [41.1 kB]
+Fetched 41.1 kB in 1s (48.9 kB/s)
+debconf: delaying package configuration, since apt-utils is not installed
+Selecting previously unselected package at.
+(Reading database ... 121654 files and directories currently installed.)
+Preparing to unpack .../at_3.2.5-1ubuntu1_amd64.deb ...
+Unpacking at (3.2.5-1ubuntu1) ...
+Setting up at (3.2.5-1ubuntu1) ...
+Created symlink /etc/systemd/system/multi-user.target.wants/atd.service → /lib/systemd/system/atd.service.
+invoke-rc.d: could not determine current runlevel
+invoke-rc.d: policy-rc.d denied execution of start.
+Processing triggers for man-db (2.10.2-1) ...
+kartikaya0312@cloudshell:~$ echo "mkdir my_folder" | at 13:10 PM
+Hour too large for PM. Last token seen: PM
+Garbled time
+kartikaya0312@cloudshell:~$ echo "mkdir my_folder" | at 1:10 PM
+warning: commands will be executed using /bin/sh
+job 1 at Tue May  7 13:10:00 2024
+Can't open /run/atd.pid to signal atd. No atd running?
+kartikaya0312@cloudshell:~$ sudo service atd start
+ * Starting deferred execution scheduler atd                                                                                                                         [ OK ] 
+kartikaya0312@cloudshell:~$ echo "mkdir my_folder" | at 1:10 PM
+warning: commands will be executed using /bin/sh
+job 2 at Tue May  7 13:10:00 2024
+kartikaya0312@cloudshell:~$ ls
+abc.txt  aditya  aman  data.txt  Desktop
+kartikaya0312@cloudshell:~$ cd ..
+kartikaya0312@cloudshell:/home$ cd ..
+kartikaya0312@cloudshell:/$ cd bin
+kartikaya0312@cloudshell:/bin$ cd sh 
+-bash: cd: sh: Not a directory
+kartikaya0312@cloudshell:/bin$ ls
+'['                                   emacs                      lesskey                            php-config8.1              slogin
+ 2to3-2.7                             emacsclient                lesspipe                           php-config.default         snice
+ aa-enabled                           emacsclient.emacs          lexgrog                            php.default                soelim
+ aa-exec                              emacs-nox                  libnetcfg                          phpize                     sort
+ aa-features-abi                      enc2xs                     libtoolize                         phpize8.1                  splain
+ aclocal                              encguess                   link                               phpize.default             split
+ aclocal-1.16                         env                        linux32                            pic                        sponge
+ acyclic                              envsubst                   linux64                            pico                       sqlite3
+ add-apt-repository                   eqn                        linux-check-removal                piconv                     ssh
+ addpart                              erb                        linux-update-symlinks              pidof                      ssh-add
+ addr2line                            erb3.0                     linux-version                      pidproxy                   ssh-agent
+ anthoscli                            errno                      ln                                 pidwait                    ssh-argv0
+ apropos                              etags                      lneato                             pigz                       ssh-copy-id
+ apt                                  etags.emacs                locale                             pinentry                   ssh-keygen
+ apt-add-repository                   ex                         locale-check                       pinentry-curses            ssh-keyscan
+ apt-cache                            expand                     localectl                          ping                       stat
+ apt-cdrom                            expiry                     localedef                          ping4                      stdbuf
+ apt-config                           expr                       local-extract                      ping6                      strace
+ apt-get                              factor                     logger                             pinky                      strace-log-merge
+ apt-key                              faillog                    login                              pip                        streamzip
+ apt-mark                             fallocate                  loginctl                           pip3                       strings
+ ar                                   false                      logname                            pip3.10                    strip
+ arch                                 fc-cache                   look                               pkaction                   stty
+ as                                   fc-cat                     ls                                 pkcheck                    su
+ at                                   fc-conflist                lsattr                             pkexec                     sudo
+ atq                                  fc-list                    lsblk                              pkg-config                 sudoedit
+ atrm                                 fc-match                   lsb_release                        pkill                      sudoreplay
+ autoconf                             fc-pattern                 lscgroup                           pkttyagent                 sum
+ autoheader                           fc-query                   lscpu                              pl2pm                      supervisorctl
+ autom4te                             fc-scan                    lsinitramfs                        pldd                       supervisord
+ automake                             fc-validate                lsipc                              pmap                       sync
+ automake-1.16                        fdp                        lslocks                            pod2html                   systemctl
+ autoreconf                           fgrep                      lslogins                           pod2man                    systemd
+ autoscan                             file                       lsmem                              pod2text                   systemd-analyze
+ autoupdate                           fincore                    lsmod                              pod2usage                  systemd-ask-password
+ awk                                  find                       lsns                               podchecker                 systemd-cat
+ b2sum                                findmnt                    lspgpot                            pr                         systemd-cgls
+ base32                               flock                      lssubsys                           preconv                    systemd-cgtop
+ base64                               fmt                        lto-dump-11                        print                      systemd-cryptenroll
+ basename                             fold                       lxc-attach                         printenv                   systemd-delta
+ basenc                               free                       lxc-autostart                      printf                     systemd-detect-virt
+ bash                                 funzip                     lxc-cgroup                         prlimit                    systemd-escape
+ bashbug                              fuser                      lxc-checkconfig                    protoc                     systemd-hwdb
+ batch                                fusermount                 lxc-checkpoint                     prove                      systemd-id128
+ bazel                                g++                        lxc-config                         prtstat                    systemd-inhibit
+ bcomps                               g++-11                     lxc-console                        prune                      systemd-machine-id-setup
+ bison                                gapplication               lxc-copy                           ps                         systemd-mount
+ bison.yacc                           gc                         lxc-create                         pslog                      systemd-notify
+ bootctl                              gcc                        lxc-destroy                        psql                       systemd-path
+ bq                                   gcc-11                     lxc-device                         pstree                     systemd-run
+ bundle3.0                            gcc-ar                     lxc-execute                        pstree.x11                 systemd-socket-activate
+ bundler3.0                           gcc-ar-11                  lxc-freeze                         ptar                       systemd-stdio-bridge
+ bunzip2                              gcc-nm                     lxc-info                           ptardiff                   systemd-sysext
+ busctl                               gcc-nm-11                  lxc-ls                             ptargrep                   systemd-sysusers
+ bzcat                                gcc-ranlib                 lxc-monitor                        ptx                        systemd-tmpfiles
+ bzcmp                                gcc-ranlib-11              lxc-snapshot                       pwd                        systemd-tty-ask-password-agent
+ bzdiff                               gcloud                     lxc-start                          pwdx                       systemd-umount
+ bzegrep                              gcloud-crc32c              lxc-stop                           pwsh                       tabs
+ bzexe                                gcore                      lxc-top                            py3clean                   tac
+ bzfgrep                              gcov                       lxc-unfreeze                       py3compile                 tail
+ bzgrep                               gcov-11                    lxc-unshare                        py3versions                tar
+ bzip2                                gcov-dump                  lxc-update-config                  pyclean                    taskset
+ bzip2recover                         gcov-dump-11               lxc-usernsexec                     pycompile                  tbl
+ bzless                               gcov-tool                  lxc-wait                           pydoc2                     tee
+ bzmore                               gcov-tool-11               lynx                               pydoc2.7                   telnet
+ c++                                  gcsfuse                    lzcat                              pydoc3                     telnet.netkit
+ c89                                  gdb                        lzcmp                              pydoc3.10                  tempfile
+ c89-gcc                              gdb-add-index              lzdiff                             pygettext2                 terraform
+ c99                                  gdbtui                     lzegrep                            pygettext2.7               test
+ c99-gcc                              gdbus                      lzfgrep                            pygettext3                 tic
+ captoinfo                            gdbus-codegen              lzgrep                             pygettext3.10              timedatectl
+ cat                                  gem                        lzless                             python                     timeout
+ catman                               gem3.0                     lzma                               python2                    tload
+ cautious-launcher                    gencat                     lzmainfo                           python2.7                  toe
+ cbt                                  geqn                       lzmore                             python3                    top
+ cc                                   getconf                    m4                                 python3.10                 touch
+ ccomps                               getent                     make                               python3.10-config          tput
+ c++filt                              getopt                     make-first-existing-target         python3-config             tr
+ cgclassify                           gettext                    man                                pyversions                 tred
+ cgcreate                             gettextize                 mandb                              pzstd                      troff
+ cgdelete                             gettext.sh                 manpath                            qemu-aarch64               true
+ cgexec                               gh                         man.REAL                           qemu-aarch64_be            truncate
+ cgget                                ginstall-info              man-recode                         qemu-aarch64_be-static     ts
+ cgset                                gio                        mawk                               qemu-aarch64-static        tset
+ cgsnapshot                           gio-querymodules           mc                                 qemu-alpha                 tsort
+ chage                                git                        mcdiff                             qemu-alpha-static          tty
+ chattr                               git-credential-gcloud.sh   mcedit                             qemu-arm                   twopi
+ chcon                                git-receive-pack           mcookie                            qemu-armeb                 typeprof3.0
+ chfn                                 git-shell                  mcview                             qemu-armeb-static          tzselect
+ chg                                  git-upload-archive         md5sum                             qemu-arm-static            ucf
+ chgrp                                git-upload-pack            md5sum.textutils                   qemu-cris                  ucfq
+ chmod                                gke-gcloud-auth-plugin     mdig                               qemu-cris-static           ucfr
+ choom                                glib-compile-resources     mesg                               qemu-hexagon               uclampset
+ chown                                glib-compile-schemas       migrate-pubring-from-classic-gpg   qemu-hexagon-static        udevadm
+ chronic                              glib-genmarshal            mingle                             qemu-hppa                  ul
+ chrt                                 glib-gettextize            minikube                           qemu-hppa-static           ulockmgr_server
+ chsh                                 glib-mkenums               mispipe                            qemu-i386                  umount
+ circo                                gmake                      mkdir                              qemu-i386-static           uname
+ cksum                                gml2gv                     mkfifo                             qemu-m68k                  uncompress
+ clangd                               gobject-query              mknod                              qemu-m68k-static           unexpand
+ clangd-13                            gold                       mkpasswd                           qemu-microblaze            unflatten
+ clear                                gpasswd                    mktemp                             qemu-microblazeel          uniq
+ clear_console                        gpg                        mm2gv                              qemu-microblazeel-static   unlink
+ cloud-build-local                    gpg2                       more                               qemu-microblaze-static     unlzma
+ cloud-run-proxy                      gpg-agent                  mount                              qemu-mips                  unmkinitramfs
+ cloud-sql-proxy                      gpgcompose                 mountpoint                         qemu-mips64                unpack200
+ cloud_sql_proxy                      gpgconf                    msgattrib                          qemu-mips64el              unpigz
+ cluster                              gpg-connect-agent          msgcat                             qemu-mips64el-static       unshare
+ clusterdb                            gpgparsemail               msgcmp                             qemu-mips64-static         unxz
+ cmake                                gpgsm                      msgcomm                            qemu-mipsel                unzip
+ cmp                                  gpgsplit                   msgconv                            qemu-mipsel-static         unzipsfx
+ col                                  gpgtar                     msgen                              qemu-mipsn32               unzstd
+ colcrt                               gpgv                       msgexec                            qemu-mipsn32el             update-alternatives
+ colrm                                gpg-wks-server             msgfilter                          qemu-mipsn32el-static      update-mime-database
+ column                               gpg-zip                    msgfmt                             qemu-mipsn32-static        update_rubygems
+ combine                              gpic                       msggrep                            qemu-mips-static           uptime
+ comm                                 gprof                      msginit                            qemu-nios2                 users
+ compose                              graphml2gv                 msgmerge                           qemu-nios2-static          utmpdump
+ composer                             grep                       msgunfmt                           qemu-or1k                  vacuumdb
+ containerd                           gresource                  msguniq                            qemu-or1k-static           vacuumlo
+ containerd-shim                      groff                      mt                                 qemu-ppc                   vdir
+ containerd-shim-runc-v1              grog                       mt-gnu                             qemu-ppc64                 vi
+ containerd-shim-runc-v2              grops                      mv                                 qemu-ppc64le               vidir
+ corelist                             grotty                     myisam_ftdump                      qemu-ppc64le-static        view
+ cp                                   groups                     mysql                              qemu-ppc64-static          vim
+ cpack                                gsettings                  mysqladmin                         qemu-ppc-static            vim.basic
+ cpan                                 gsutil                     mysqlanalyze                       qemu-riscv32               vimdiff
+ cpan5.34-x86_64-linux-gnu            gtbl                       mysqlcheck                         qemu-riscv32-static        vimdot
+ cpio                                 gtester                    mysql_config_editor                qemu-riscv64               vim.nox
+ cpp                                  gtester-report             mysqldump                          qemu-riscv64-static        vimtutor
+ cpp-11                               gtk-update-icon-cache      mysqldumpslow                      qemu-s390x                 vipe
+ createdb                             gunzip                     mysqlimport                        qemu-s390x-static          vmstat
+ createlang                           gv2gml                     mysqloptimize                      qemu-sh4                   w
+ createuser                           gv2gxl                     mysqlpump                          qemu-sh4eb                 wall
+ c_rehash                             gvcolor                    mysqlrepair                        qemu-sh4eb-static          watch
+ crontab                              gvgen                      mysqlreport                        qemu-sh4-static            watchgnupg
+ csplit                               gvmap                      mysqlshow                          qemu-sparc                 wc
+ ctags                                gvmap.sh                   mysqlslap                          qemu-sparc32plus           wdctl
+ ctags.emacs                          gvpack                     namei                              qemu-sparc32plus-static    wget
+ ctest                                gvpr                       nano                               qemu-sparc64               whatis
+ ctpu                                 gxl2dot                    nawk                               qemu-sparc64-static        whereis
+ ctr                                  gxl2gv                     ncurses5-config                    qemu-sparc-static          which
+ curl                                 gzexe                      ncurses6-config                    qemu-x86_64                which.debianutils
+ curl-config                          gzip                       ncursesw5-config                   qemu-x86_64-static         who
+ cut                                  h2ph                       ncursesw6-config                   qemu-xtensa                whoami
+ cvtsudoers                           h2xs                       neato                              qemu-xtensaeb              whois
+ dash                                 h5c++                      neqn                               qemu-xtensaeb-static       write
+ date                                 h5cc                       netstat                            qemu-xtensa-static         write.ul
+ dbus-cleanup-sockets                 h5fc                       networkctl                         racc3.0                    www-browser
+ dbus-daemon                          hardlink                   newgrp                             rake                       X11
+ dbus-monitor                         hd                         ngettext                           rake3.0                    x86_64
+ dbus-run-session                     head                       nice                               ranlib                     x86_64-linux-gnu-addr2line
+ dbus-send                            helpztags                  nisdomainname                      rbash                      x86_64-linux-gnu-ar
+ dbus-update-activation-environment   hexdump                    nl                                 rbs3.0                     x86_64-linux-gnu-as
+ dbus-uuidgen                         hg                         nm                                 rcp                        x86_64-linux-gnu-c++filt
+ dd                                   hg-ssh                     nohup                              rdoc                       x86_64-linux-gnu-cpp
+ debconf                              host                       nomos                              rdoc3.0                    x86_64-linux-gnu-cpp-11
+ debconf-apt-progress                 hostid                     nop                                readelf                    x86_64-linux-gnu-dwp
+ debconf-communicate                  hostname                   nproc                              readlink                   x86_64-linux-gnu-elfedit
+ debconf-copydb                       hostnamectl                nroff                              realpath                   x86_64-linux-gnu-g++
+ debconf-escape                       htop                       nsenter                            recode-sr-latin            x86_64-linux-gnu-g++-11
+ debconf-set-selections               i386                       nslookup                           redis-benchmark            x86_64-linux-gnu-gcc
+ debconf-show                         iconv                      nsupdate                           redis-check-aof            x86_64-linux-gnu-gcc-11
+ deb-systemd-helper                   id                         numfmt                             redis-check-rdb            x86_64-linux-gnu-gcc-ar
+ deb-systemd-invoke                   ifdata                     objcopy                            redis-cli                  x86_64-linux-gnu-gcc-ar-11
+ delpart                              ifnames                    objdump                            redis-server               x86_64-linux-gnu-gcc-nm
+ delv                                 ifne                       od                                 reindexdb                  x86_64-linux-gnu-gcc-nm-11
+ dev_appserver.py                     infocmp                    open                               renice                     x86_64-linux-gnu-gcc-ranlib
+ df                                   infotocap                  openssl                            reset                      x86_64-linux-gnu-gcc-ranlib-11
+ dh_autotools-dev_restoreconfig       install                    osage                              resizepart                 x86_64-linux-gnu-gcov
+ dh_autotools-dev_updateconfig        install-info               pack200                            resolvectl                 x86_64-linux-gnu-gcov-11
+ dh_bash-completion                   instmodsh                  package-go-module                  rev                        x86_64-linux-gnu-gcov-dump
+ diff                                 ionice                     packer                             rgrep                      x86_64-linux-gnu-gcov-dump-11
+ diff3                                ipcmk                      pager                              ri                         x86_64-linux-gnu-gcov-tool
+ diffimg                              ipcrm                      parallel                           ri3.0                      x86_64-linux-gnu-gcov-tool-11
+ dig                                  ipcs                       partx                              rlogin                     x86_64-linux-gnu-gold
+ dijkstra                             iptables-xml               passwd                             rm                         x86_64-linux-gnu-gprof
+ dir                                  irb                        paste                              rmdir                      x86_64-linux-gnu-ld
+ dircolors                            irb3.0                     patch                              rmic                       x86_64-linux-gnu-ld.bfd
+ dirmngr                              ischroot                   patchwork                          rmid                       x86_64-linux-gnu-ld.gold
+ dirmngr-client                       isutf8                     pathchk                            rmiregistry                x86_64-linux-gnu-lto-dump-11
+ dirname                              jaotc                      pcre2-config                       rnano                      x86_64-linux-gnu-nm
+ dmesg                                jar                        pcre-config                        rootlesskit                x86_64-linux-gnu-objcopy
+ dnsdomainname                        jarsigner                  pdb2                               rootlesskit-docker-proxy   x86_64-linux-gnu-objdump
+ docker                               java                       pdb2.7                             rpcgen                     x86_64-linux-gnu-pkg-config
+ docker-credential-gcloud             javac                      pdb3                               rrsync                     x86_64-linux-gnu-python3.10-config
+ dockerd                              javadoc                    pdb3.10                            rsh                        x86_64-linux-gnu-python3-config
+ dockerd-rootless-setuptool.sh        javap                      pear                               rsync                      x86_64-linux-gnu-ranlib
+ dockerd-rootless.sh                  jcmd                       peardev                            rsync-ssl                  x86_64-linux-gnu-readelf
+ docker-proxy                         jconsole                   pecl                               ruby                       x86_64-linux-gnu-size
+ domainname                           jdb                        pee                                ruby3.0                    x86_64-linux-gnu-strings
+ dot                                  jdeprscan                  peekfd                             runc                       x86_64-linux-gnu-strip
+ dot2gxl                              jdeps                      perl                               runcon                     x86_64-pc-linux-gnu-pkg-config
+ dot_builtins                         jexec                      perl5.34.0                         run-mailcap                xargs
+ dotnet                               jfr                        perl5.34-x86_64-linux-gnu          run-parts                  xgettext
+ dotty                                jhsdb                      perlbug                            rview                      xsubpp
+ dpkg                                 jimage                     perldoc                            rvim                       xxd
+ dpkg-architecture                    jinfo                      perlivp                            savelog                    xz
+ dpkg-buildflags                      jjs                        perlthanks                         sccmap                     xzcat
+ dpkg-buildpackage                    jlink                      pg_archivecleanup                  scp                        xzcmp
+ dpkg-checkbuilddeps                  jmap                       pg_backupcluster                   script                     xzdiff
+ dpkg-deb                             jmod                       pg_basebackup                      scriptlive                 xzegrep
+ dpkg-distaddfile                     join                       pgbench                            scriptreplay               xzfgrep
+ dpkg-divert                          journalctl                 pg_buildext                        sdiff                      xzgrep
+ dpkg-genbuildinfo                    jpackage                   pg_config                          sed                        xzless
+ dpkg-genchanges                      jps                        pg_config.libpq-dev                see                        xzmore
+ dpkg-gencontrol                      jq                         pg_conftool                        select-editor              yacc
+ dpkg-gensymbols                      jrunscript                 pg_createcluster                   sensible-browser           yes
+ dpkg-maintscript-helper              jshell                     pg_ctlcluster                      sensible-editor            ypdomainname
+ dpkg-mergechangelogs                 json_pp                    pg_dropcluster                     sensible-pager             zcat
+ dpkg-name                            jstack                     pg_dump                            seq                        zcmp
+ dpkg-parsechangelog                  jstat                      pg_dumpall                         serialver                  zdiff
+ dpkg-query                           jstatd                     pg_isready                         setarch                    zdump
+ dpkg-realpath                        jwebserver                 pg_lsclusters                      setpriv                    zegrep
+ dpkg-scanpackages                    kbxutil                    pg_receivewal                      setsid                     zfgrep
+ dpkg-scansources                     kernel-install             pg_receivexlog                     setterm                    zforce
+ dpkg-shlibdeps                       keyring                    pg_recvlogical                     sfdp                       zgrep
+ dpkg-source                          keytool                    pg_renamecluster                   sftp                       zip
+ dpkg-split                           kill                       pgrep                              sg                         zipcloak
+ dpkg-statoverride                    killall                    pg_restore                         sh                         zipdetails
+ dpkg-trigger                         kmod                       pg_restorecluster                  sha1sum                    zipgrep
+ dpkg-vendor                          kpt                        pg_upgradecluster                  sha224sum                  zipinfo
+ dropdb                               kubectl                    pg_virtualenv                      sha256sum                  zipnote
+ droplang                             last                       phar                               sha384sum                  zipsplit
+ dropuser                             lastb                      phar8.1                            sha512sum                  zless
+ du                                   lastlog                    phar8.1.phar                       shasum                     zmore
+ dwp                                  lcf                        phar.default                       shred                      znew
+ ebrowse                              lckdo                      phar.phar                          shtool                     zrun
+ ebrowse.emacs                        ld                         phar.phar8.1                       shtoolize                  zstd
+ echo                                 ld.bfd                     phar.phar.default                  shuf                       zstdcat
+ echo_supervisord_conf                ldd                        php                                size                       zstdgrep
+ edgepaint                            ld.gold                    php8.1                             skaffold                   zstdless
+ edit                                 lefty                      php-cgi                            skill                      zstdmt
+ editor                               less                       php-cgi8.1                         slabtop
+ egrep                                lessecho                   php-cgi.default                    sleep
+ elfedit                              lessfile                   php-config                         slirp4netns
+kartikaya0312@cloudshell:/bin$ cd sh
+-bash: cd: sh: Not a directory
+kartikaya0312@cloudshell:/bin$ ls /bin/sh
+/bin/sh
+kartikaya0312@cloudshell:/bin$ ls /bin/sh/
+ls: cannot access '/bin/sh/': Not a directory
+kartikaya0312@cloudshell:/bin$ cd ..
+kartikaya0312@cloudshell:/$ cd home 
+kartikaya0312@cloudshell:/home$ cd kartikaya0312/
+kartikaya0312@cloudshell:~$ ls
+abc.txt  aditya  aman  data.txt  Desktop
+kartikaya0312@cloudshell:~$ cd Desktop/
+kartikaya0312@cloudshell:~/Desktop$ ls
+abc  def
+kartikaya0312@cloudshell:~/Desktop$ cd ..
+kartikaya0312@cloudshell:~$ 

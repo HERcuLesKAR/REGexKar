@@ -1,0 +1,15 @@
+lecture on list tuples and dictionaries 
+
+Q1.
+take user input as number of days 
+start from sunday 
+save money as 
+user 21 
+week 1 :- 1 + 2 + 3 + 4 + 5 + 6 + 7 
+week 2 :- 2 + 3 + 4 + 5 + 6 + 7 + 8
+week 3 :- 3 + 4 + 5 + 6 
+
+give total amount
+
+ 
+

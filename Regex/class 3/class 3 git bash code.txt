@@ -1,0 +1,112 @@
+    1  mkdir interns
+    2  cd interns
+    3  pwd
+    4  ls
+    5  ls -a
+    6  git init
+    7  ls -a
+    8  touch regex.txt
+    9  ls
+   10  git status
+   11  git add regex.txt
+   12  git status
+   13  git config
+   14  git config --global user.email kartikaya0312@gmail.com
+   15  vi regex.txt
+   16  cat regex.txt
+   17  ls
+   18  git status
+   19  git commit
+   20  git status
+   21  git log
+   22  touch raj.html
+   23  git status
+   24  git add raj.html
+   25  git status
+   26  git commit
+   27  git log
+   28  git remote add origin https://github.com/HERcuLesKAR/May-08.git
+   29  git branch -M main
+   30  git push -u origin main
+   31  ls
+   32  touch new.txt
+   33  git status
+   34  git add new.txt
+   35  git status
+   36  git commit new.txt
+   37  git status
+   38  git push
+   39  git add regex.txt
+   40  git status
+   41  git commit
+   42  git push
+   43  touch ujjwal.txt
+   44  git add ujjwal.txt
+   45  git commit -m "ujjwal file is created"
+   46  git push
+   47  vi count.txt
+   48  git add count.txt
+   49  vi count.txt
+   50  ls
+   51  git status
+   52  git diff
+   53  git add
+   54  git add count.txt
+   55  git commit
+   56  git push
+   57  git branch
+   58  ls
+   59  git  branch  feature
+   60  git branch
+   61  git checkout feature
+   62  git branch
+   63  touch data.txt
+   64  touch home.html home.css
+   65  ls
+   66  git add .
+   67  git commit -m "feature copies of file"
+   68  git push
+   69  git push -u origin feature
+   70  git push -u origin feature
+   71  git push -u origin feature
+   72  git checkout main
+   73  ls
+   74  git  merge  feature
+   75  ls
+   76  cd ..
+   77  mkdir 8may
+   78  cd 8may
+   79  git init
+   80  ls -a
+   81  touch new.html data.txt
+   82  ls
+   83  git add .
+   84  git commit -m "new folder files of 8may"
+   85  git remote add origin https://github.com/HERcuLesKAR/8may.git
+   86  git branch -M main
+   87  git push -u origin main
+   88  git push
+   89  git branch
+   90  git branch new8may
+   91  git branch
+   92  git checkout new8may
+   93  touch new8may.txt data8may.html
+   94  git add .
+   95  git commit -m "this is branch files"
+   96  git push
+   97  git push -u origin new8may
+   98  git checkout main
+   99  git merge new8may
+  100  ls
+  101  mkdir test
+  102  git add test
+  103  git commit -m "this is test folder"
+  104  git push
+  105  ls
+  106  cd test
+  107  touch test.txt
+  108  cd ..
+  109  git add test
+  110  git commit -m "this is test folder"
+  111  git push
+  112  history

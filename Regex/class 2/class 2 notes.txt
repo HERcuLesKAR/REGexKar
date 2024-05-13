@@ -1,0 +1,56 @@
+editor in linux vi 
+--vim/touch
+
+command mode :- save copy undo 
+insert mode :- write / modify
+
+command mode => insert mode (i/a/o)
+insert => command (press esc)
+
+:w save the file 
+esc :wq enter :- out of the file 
+
+what does ls -lh gives us ??
+1. permission
+2. Link
+3. onwer user 
+4. group 
+5. file size 
+6. time 
+7. name of file or folder 
+
+Permission :- RWX Read Write Execute 
+-rw-rw-r--:- - 
+             rw- owner 
+             rw- group 
+             r-- other 
+drwxrwxr-x :- d 
+              rwx owner 
+              rwx group 
+              r-x other 
+
+
+chmod :- to give access or denie the access  
+         owner u
+         group g
+         other o
+         - hatani hai
+         + deni hai 
+
+ASSIGNMENT 
+1. create a folder name as aman and 
+-inside aman create 200 file 
+-rewmove the starting 100 file 
+-removes files from 101-107 but with permission 
+-copy the remaining files from amn folder to aditya folder 
+-copy aman folder to aditya 
+
+2. through /home/tushar  dektop => abc , def => def , xyz 
+
+3. 12:00 /home/user location make folder REGex 
+
+4. automate this 
+
+
+
+

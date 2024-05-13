@@ -1,0 +1,59 @@
+ASSIGNMENT :-
+
+Q1 user input on number of unit in integer
+- for the starting 10 unit price is 50 rs each
+- for the next 20 unit price is 20 rs each
+- for the rest of unit price will be 10rs
+calculate the total price
+100  =>  500  +400 +700
+90
+70
+Solution :-
+num_units = int(input("Enter number of units: "))
+
+total_price = 0
+
+if num_units <= 10:
+    total_price = num_units * 50  
+elif num_units <= 30:
+    total_price = 10 * 50 + (num_units - 10) * 20  
+else:
+    total_price = 10 * 50 + 20 * 20 + (num_units - 30) * 10  
+
+print("Total price:", total_price)
+
+
+Q2:
+take 3 number as input from a user as 3 side of a triangle
+and check whether it will create a triagle or not
+Solution:-
+side1 = float(input("Enter length of side 1: "))
+side2 = float(input("Enter length of side 2: "))
+side3 = float(input("Enter length of side 3: "))
+
+if side1 + side2 > side3 and side2 + side3 > side1 and side1 + side3 > side2:
+    print("Yes, these sides can form a triangle.")
+else:
+    print("No, these sides cannot form a triangle.")
+
+
+Q3 Take two number from the user and check whether both the number are divisble
+by 6
+( divisibility rule say it should be divided by 2 and 3)
+Solution :-
+num1 = int(input("Enter first number: "))
+num2 = int(input("Enter second number: "))
+
+if num1 % 6 == 0 and num2 % 6 == 0:
+    print("Both numbers are divisible by 6.")
+else:
+    if num1 % 6 == 0:
+        print(f"The first number ({num1}) is divisible by 6.")
+    else:
+        print(f"The first number ({num1}) is not divisible by 6.")
+
+    if num2 % 6 == 0:
+        print(f"The second number ({num2}) is divisible by 6.")
+    else:
+        print(f"The second number ({num2}) is not divisible by 6.")
+

@@ -1,0 +1,26 @@
+Q1. DO NOT USE REGULAR EXPRESSION(isnumber isupper)
+take a input string from the user and validate 
+-1 the string shou;ld hav emin 3 capital letter 
+-2 string should hgave 2 small letter 
+-3 min 1 number 
+-4 the string should have min length 5 to max 15 
+-5 can have any special character #@!
+print  password is correct or incorrect 
+
+Q2.
+take a int number from user 
+-find whether that is prime or not 
+
+
+*
+* *
+*   *
+*     *
+*       *
+* * * * * *
+
+
+
+
+
+

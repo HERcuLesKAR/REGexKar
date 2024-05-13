@@ -1,0 +1,99 @@
+    1  pwd
+    2  ls
+    3  mkdir
+    4  mkdir kartik_awas
+    5  ls
+    6  rmdir kartik_awas
+    7  ls
+    8  mkdir salman
+    9  ls
+   10  pwd 
+   11  cd salman
+   12  pwd 
+   13  mkdir folder_1 folder_2
+   14  ls
+   15  touch data.txt
+   16  ls
+   17  rmdir folder_2
+   18  ls
+   19  rmdie data.txt 
+   20  rmdir data.txt
+   21  rm data.txt
+   22  ls
+   23  pwd 
+   24  cd ..
+   25  pwd 
+   26  ls
+   27  rmdir salman
+   28  rm salman
+   29  rm  -rv  salman
+   30  mkdir regex
+   31  ls
+   32  cd regex
+   33  touch 1.txt 2.txt 3.txt 4.txt 5.txt 6.txt 7.txt 8.txt 9.txt 10.txt
+   34  mkdir f1 f2 f3 f4 f5 f6 
+   35  ls
+   36  rm 1.txt 5.txt 9.txt 
+   37  rmdir f1 f2 f3 f4
+   38  ls
+   39  rm -rv regex
+   40  cd ..
+   41  rm -rv regex
+   42  pwd 
+   43  ls
+   44  mkdir virat anushka
+   45  ls
+   46  cd virat
+   47  touch 10cr.txt
+   48  ls
+   49  cp /home/kartikaya0312/virat/10cr.txt /home/kartikaya0312/anushka
+   50  touch movie.txt
+   51  ls
+   52  cd ..
+   53  cd anushka
+   54  ls'
+ls
+cd ..
+back
+
+
+
+
+'
+   55  ls
+   56  ls /home/kartikaya0312/anushka/
+   57  cp /home/kartikaya0312/virat/10cr.txt /home/kartikaya0312/anushka/
+   58  ls
+   59  pwd
+   60  ls
+   61  cd ..
+   62  cd virat 
+   63  rm /home/kartikaya0312/virat/10cr.txt 
+   64  ls
+   65  cd ..
+   66  cp /home/kartikaya0312/anushka/10cr.txt /home/kartikaya0312/virat/
+   67  cd virat
+   68  ls
+   69  cd ..
+   70  mv /home/kartikaya0312/virat/movie.txt /home/kartikaya0312/anushka/
+   71  cd virat/
+   72  ls
+   73  cd ..
+   74  cd anushka/
+   75  ls
+   76  cd ..
+   77  mkdir aman aditya 
+   78  cd aman 
+   79  touch 1 2 3 
+   80  ls
+   81  cp /home/kartikaya0312/aman/1 /home/kartikaya0312/aditya/
+   82  cp /home/kartikaya0312/aman/2 /home/kartikaya0312/aditya/newfile
+   83  mv /home/kartikaya0312/aman/3 /home/kartikaya0312/aditya/
+   84  cp /home/kartikaya0312/aman/ /home/kartikaya0312/aditya/
+   85  cp -rv /home/kartikaya0312/aman/ /home/kartikaya0312/aditya/
+   86  cd .. 
+   87  cd aditya 
+   88  ls
+   89  aman
+   90  ls /home/kartikaya0312/aditya/aman/
+   91  history

@@ -1,0 +1,262 @@
+Welcome to Cloud Shell! Type "help" to get started.
+To set your Cloud Platform project in this session use “gcloud config set project [PROJECT_ID]”
+kartikaya0312@cloudshell:~$ pwd
+/home/kartikaya0312
+kartikaya0312@cloudshell:~$ ls
+README-cloudshell.txt
+kartikaya0312@cloudshell:~$ mkdir
+mkdir: missing operand
+Try 'mkdir --help' for more information.
+kartikaya0312@cloudshell:~$ mkdir kartik_awas
+kartikaya0312@cloudshell:~$ ls
+kartik_awas  README-cloudshell.txt
+kartikaya0312@cloudshell:~$ rmdir kartik_awas
+kartikaya0312@cloudshell:~$ ls
+README-cloudshell.txt
+kartikaya0312@cloudshell:~$ mkdir salman
+kartikaya0312@cloudshell:~$ ls
+README-cloudshell.txt  salman
+kartikaya0312@cloudshell:~$ pwd 
+/home/kartikaya0312
+kartikaya0312@cloudshell:~$ cd salman
+kartikaya0312@cloudshell:~/salman$ pwd 
+/home/kartikaya0312/salman
+kartikaya0312@cloudshell:~/salman$ mkdir folder_1 folder_2
+kartikaya0312@cloudshell:~/salman$ ls
+folder_1  folder_2
+kartikaya0312@cloudshell:~/salman$ touch data.txt
+kartikaya0312@cloudshell:~/salman$ ls
+data.txt  folder_1  folder_2
+kartikaya0312@cloudshell:~/salman$ rmdir folder_2
+kartikaya0312@cloudshell:~/salman$ ls
+data.txt  folder_1
+kartikaya0312@cloudshell:~/salman$ rmdie data.txt 
+-bash: rmdie: command not found
+kartikaya0312@cloudshell:~/salman$ rmdir data.txt
+rmdir: failed to remove 'data.txt': Not a directory
+kartikaya0312@cloudshell:~/salman$ rmdir data.txt
+rmdir: failed to remove 'data.txt': Not a directory
+kartikaya0312@cloudshell:~/salman$ rm data.txt
+kartikaya0312@cloudshell:~/salman$ ls
+folder_1
+kartikaya0312@cloudshell:~/salman$ pwd 
+/home/kartikaya0312/salman
+kartikaya0312@cloudshell:~/salman$ cd ..
+kartikaya0312@cloudshell:~$ pwd 
+/home/kartikaya0312
+kartikaya0312@cloudshell:~$ ls
+README-cloudshell.txt  salman
+kartikaya0312@cloudshell:~$ rmdir salman
+rmdir: failed to remove 'salman': Directory not empty
+kartikaya0312@cloudshell:~$ rm salman
+rm: cannot remove 'salman': Is a directory
+kartikaya0312@cloudshell:~$ rm  -rv  salman
+removed directory 'salman/folder_1'
+removed directory 'salman'
+kartikaya0312@cloudshell:~$ mkdir regex
+kartikaya0312@cloudshell:~$ ls
+README-cloudshell.txt  regex
+kartikaya0312@cloudshell:~$ cd regex
+kartikaya0312@cloudshell:~/regex$ touch 1.txt 2.txt 3.txt 4.txt 5.txt 6.txt 7.txt 8.txt 9.txt 10.txt
+kartikaya0312@cloudshell:~/regex$ mkdir f1 f2 f3 f4 f5 f6 
+kartikaya0312@cloudshell:~/regex$ ls
+10.txt  1.txt  2.txt  3.txt  4.txt  5.txt  6.txt  7.txt  8.txt  9.txt  f1  f2  f3  f4  f5  f6
+kartikaya0312@cloudshell:~/regex$ rm 1.txt 5.txt 9.txt 
+kartikaya0312@cloudshell:~/regex$ rmdir f1 f2 f3 f4
+kartikaya0312@cloudshell:~/regex$ ls
+10.txt  2.txt  3.txt  4.txt  6.txt  7.txt  8.txt  f5  f6
+kartikaya0312@cloudshell:~/regex$ rm -rv regex
+rm: cannot remove 'regex': No such file or directory
+kartikaya0312@cloudshell:~/regex$ cd ..
+kartikaya0312@cloudshell:~$ rm -rv regex
+removed directory 'regex/f6'
+removed 'regex/2.txt'
+removed directory 'regex/f5'
+removed 'regex/8.txt'
+removed 'regex/4.txt'
+removed 'regex/7.txt'
+removed 'regex/10.txt'
+removed 'regex/6.txt'
+removed 'regex/3.txt'
+removed directory 'regex'
+kartikaya0312@cloudshell:~$ pwd 
+/home/kartikaya0312
+kartikaya0312@cloudshell:~$ ls
+README-cloudshell.txt
+kartikaya0312@cloudshell:~$ mkdir virat anushka
+kartikaya0312@cloudshell:~$ ls
+anushka  README-cloudshell.txt  virat
+kartikaya0312@cloudshell:~$ cd virat
+kartikaya0312@cloudshell:~/virat$ touch 10cr.txt
+kartikaya0312@cloudshell:~/virat$ ls
+10cr.txt
+kartikaya0312@cloudshell:~/virat$ cp /home/kartikaya0312/virat/10cr.txt /home/kartikaya0312/anushka
+kartikaya0312@cloudshell:~/virat$ touch movie.txt
+kartikaya0312@cloudshell:~/virat$ ls
+10cr.txt  movie.txt
+kartikaya0312@cloudshell:~/virat$ cd ..
+kartikaya0312@cloudshell:~$ cd anushka
+kartikaya0312@cloudshell:~/anushka$ ls'
+> ls
+> cd ..
+> back
+> 
+> 
+> 
+> 
+> '
+-bash: $'ls\nls\ncd ..\nback\n\n\n\n\n': command not found
+kartikaya0312@cloudshell:~/anushka$ ls
+10cr.txt
+kartikaya0312@cloudshell:~/anushka$ ls /home/kartikaya0312/anushka/
+10cr.txt
+kartikaya0312@cloudshell:~/anushka$ cp /home/kartikaya0312/virat/10cr.txt /home/kartikaya0312/anushka/
+kartikaya0312@cloudshell:~/anushka$ ls
+10cr.txt
+kartikaya0312@cloudshell:~/anushka$ pwd
+/home/kartikaya0312/anushka
+kartikaya0312@cloudshell:~/anushka$ ls
+10cr.txt
+kartikaya0312@cloudshell:~/anushka$ cd ..
+kartikaya0312@cloudshell:~$ cd virat 
+kartikaya0312@cloudshell:~/virat$ rm /home/kartikaya0312/virat/10cr.txt 
+kartikaya0312@cloudshell:~/virat$ ls
+movie.txt
+kartikaya0312@cloudshell:~/virat$ cd ..
+kartikaya0312@cloudshell:~$ cp /home/kartikaya0312/anushka/10cr.txt /home/kartikaya0312/virat/
+kartikaya0312@cloudshell:~$ cd virat
+kartikaya0312@cloudshell:~/virat$ ls
+10cr.txt  movie.txt
+kartikaya0312@cloudshell:~/virat$ cd ..
+kartikaya0312@cloudshell:~$ mv /home/kartikaya0312/virat/movie.txt /home/kartikaya0312/anushka/
+kartikaya0312@cloudshell:~$ cd virat/
+kartikaya0312@cloudshell:~/virat$ ls
+10cr.txt
+kartikaya0312@cloudshell:~/virat$ cd ..
+kartikaya0312@cloudshell:~$ cd anushka/
+kartikaya0312@cloudshell:~/anushka$ ls
+10cr.txt  movie.txt
+kartikaya0312@cloudshell:~/anushka$ cd ..
+kartikaya0312@cloudshell:~$ mkdir aman aditya 
+kartikaya0312@cloudshell:~$ cd aman 
+kartikaya0312@cloudshell:~/aman$ touch 1 2 3 
+kartikaya0312@cloudshell:~/aman$ ls
+1  2  3
+kartikaya0312@cloudshell:~/aman$ cp /home/kartikaya0312/aman/1 /home/kartikaya0312/aditya/
+kartikaya0312@cloudshell:~/aman$ cp /home/kartikaya0312/aman/2 /home/kartikaya0312/aditya/newfile
+kartikaya0312@cloudshell:~/aman$ mv /home/kartikaya0312/aman/3 /home/kartikaya0312/aditya/
+kartikaya0312@cloudshell:~/aman$ cp /home/kartikaya0312/aman/ /home/kartikaya0312/aditya/
+cp: -r not specified; omitting directory '/home/kartikaya0312/aman/'
+kartikaya0312@cloudshell:~/aman$ cp -rv /home/kartikaya0312/aman/ /home/kartikaya0312/aditya/
+'/home/kartikaya0312/aman/' -> '/home/kartikaya0312/aditya/aman'
+'/home/kartikaya0312/aman/1' -> '/home/kartikaya0312/aditya/aman/1'
+'/home/kartikaya0312/aman/2' -> '/home/kartikaya0312/aditya/aman/2'
+kartikaya0312@cloudshell:~/aman$ cd .. 
+kartikaya0312@cloudshell:~$ cd aditya 
+kartikaya0312@cloudshell:~/aditya$ ls
+1  3  aman  newfile
+kartikaya0312@cloudshell:~/aditya$ aman
+-bash: aman: command not found
+kartikaya0312@cloudshell:~/aditya$ ls /home/kartikaya0312/aditya/aman/
+1  2
+kartikaya0312@cloudshell:~/aditya$ history
+    1  pwd
+    2  ls
+    3  mkdir
+    4  mkdir kartik_awas
+    5  ls
+    6  rmdir kartik_awas
+    7  ls
+    8  mkdir salman
+    9  ls
+   10  pwd 
+   11  cd salman
+   12  pwd 
+   13  mkdir folder_1 folder_2
+   14  ls
+   15  touch data.txt
+   16  ls
+   17  rmdir folder_2
+   18  ls
+   19  rmdie data.txt 
+   20  rmdir data.txt
+   21  rm data.txt
+   22  ls
+   23  pwd 
+   24  cd ..
+   25  pwd 
+   26  ls
+   27  rmdir salman
+   28  rm salman
+   29  rm  -rv  salman
+   30  mkdir regex
+   31  ls
+   32  cd regex
+   33  touch 1.txt 2.txt 3.txt 4.txt 5.txt 6.txt 7.txt 8.txt 9.txt 10.txt
+   34  mkdir f1 f2 f3 f4 f5 f6 
+   35  ls
+   36  rm 1.txt 5.txt 9.txt 
+   37  rmdir f1 f2 f3 f4
+   38  ls
+   39  rm -rv regex
+   40  cd ..
+   41  rm -rv regex
+   42  pwd 
+   43  ls
+   44  mkdir virat anushka
+   45  ls
+   46  cd virat
+   47  touch 10cr.txt
+   48  ls
+   49  cp /home/kartikaya0312/virat/10cr.txt /home/kartikaya0312/anushka
+   50  touch movie.txt
+   51  ls
+   52  cd ..
+   53  cd anushka
+   54  ls'
+ls
+cd ..
+back
+
+
+
+
+'
+   55  ls
+   56  ls /home/kartikaya0312/anushka/
+   57  cp /home/kartikaya0312/virat/10cr.txt /home/kartikaya0312/anushka/
+   58  ls
+   59  pwd
+   60  ls
+   61  cd ..
+   62  cd virat 
+   63  rm /home/kartikaya0312/virat/10cr.txt 
+   64  ls
+   65  cd ..
+   66  cp /home/kartikaya0312/anushka/10cr.txt /home/kartikaya0312/virat/
+   67  cd virat
+   68  ls
+   69  cd ..
+   70  mv /home/kartikaya0312/virat/movie.txt /home/kartikaya0312/anushka/
+   71  cd virat/
+   72  ls
+   73  cd ..
+   74  cd anushka/
+   75  ls
+   76  cd ..
+   77  mkdir aman aditya 
+   78  cd aman 
+   79  touch 1 2 3 
+   80  ls
+   81  cp /home/kartikaya0312/aman/1 /home/kartikaya0312/aditya/
+   82  cp /home/kartikaya0312/aman/2 /home/kartikaya0312/aditya/newfile
+   83  mv /home/kartikaya0312/aman/3 /home/kartikaya0312/aditya/
+   84  cp /home/kartikaya0312/aman/ /home/kartikaya0312/aditya/
+   85  cp -rv /home/kartikaya0312/aman/ /home/kartikaya0312/aditya/
+   86  cd .. 
+   87  cd aditya 
+   88  ls
+   89  aman
+   90  ls /home/kartikaya0312/aditya/aman/
+   91  history
+kartikaya0312@cloudshell:~/aditya$ 

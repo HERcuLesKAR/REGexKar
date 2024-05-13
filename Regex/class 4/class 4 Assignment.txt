@@ -1,0 +1,44 @@
+Assignment 
+Q1.
+if a user has give a input 1 print the current date 
+if input 2 make a folder on desktop with the name given by user 
+if input 3 make a file at desktop 
+if input 4 shut down the operating system 
+
+Q2.
+user input on number of units in integer 
+- for the starting 10 units price is 50 Rs each 
+-for the next 20 units the price will be 20 each
+- for rest of unit 10 Rs each 
+Calculate the total price 
+
+Q3.
+take 3 sides as the input from the user as 3 side of the triangle and check whether it will create a triangle or not
+
+Q4.
+take 2 numbers from the user and check whether the both the numbers are divisibe by 6 or not
+
+# if a user has give a input 1 print the current date 
+# if input 2 make a folder on desktop with the name given by user 
+# if input 3 make a file at desktop 
+# if input 4 shut down the operating system 
+import os
+from datetime import datetime
+
+user_input = input("Enter a number (1, 2, 3, or 4): ")
+
+if user_input == "1":
+    print("Current date:", datetime.now())
+elif user_input == "2":
+    folder_name = input("Enter folder name: ")
+    os.makedirs(os.path.expanduser("~/Desktop/" + folder_name))
+    print("Folder created successfully.")
+elif user_input == "3":
+    file_name = input("Enter file name: ")
+    with open(os.path.expanduser("~/Desktop/" + file_name), "w") as file:
+        file.write("This is a sample file.")
+    print("File created successfully.")
+elif user_input == "4":
+    os.system("shutdown /s /t 1")
+else:
+    print("Invalid input.")
